@@ -19,3 +19,4 @@ module Flunch
 end
 
 require 'flunch/strike_that'
+require 'flunch/whoops'
